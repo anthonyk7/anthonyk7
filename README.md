@@ -21,3 +21,6 @@
 - Email: anthony.kalkhorani@iths.se
 - Personal Email: anthony.kalkhorani77@gmail.com
 - Linkedin: https://www.linkedin.com/in/anthony-kalkhorani/
+ ------------------------------------------------------------------------------------------------------------------------------------
+### Upcomming projects
+- Discord bot for servers
