@@ -5,22 +5,26 @@
 - Java programming
 - Database management (JPA, JDBC, MySQL, Hibernate)
 - Git
-- JakartaEE, Spring boot
+- JakartaEE
+- Spring Boot
 - jUnit testing
 - HTML
 - XHTML
 - CSS
+- Postman, Json
+- IntelliJ IDE
+- NetBeans IDE
 ------------------------------------------------------------------------------------------------------------------------------------
 ### Group Projects 🖥️
 - https://github.com/anthonyk7/Food-Menu-Group-Project
  ------------------------------------------------------------------------------------------------------------------------------------
 ### About me 🤙
-- My name is Anthony, im 20 years old and I am a student at ITHS in Stockholm. I am studying java developing, and soon I get sent out on LIA which is work and a part of the education
+- My name is Anthony, im 20 years old and I am a student at ITHS in Stockholm. I am studying java developing. (I AM LOOKING FOR INTERNSHIP)
  ------------------------------------------------------------------------------------------------------------------------------------
 ### Contact 📞
 - Email: anthony.kalkhorani@iths.se
 - Personal Email: anthony.kalkhorani77@gmail.com
+- Discord: AnthonyK#6179
 - Linkedin: https://www.linkedin.com/in/anthony-kalkhorani/
  ------------------------------------------------------------------------------------------------------------------------------------
 ### Upcomming projects
-- Discord bot for servers
