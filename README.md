@@ -11,10 +11,10 @@
 - HTML
 - XHTML
 - CSS
-- Postman, Json
 - IntelliJ IDE
 - NetBeans IDE
 - Postman
+- Json
 ------------------------------------------------------------------------------------------------------------------------------------
 ### Group Projects 🖥️
 - https://github.com/anthonyk7/Food-Menu-Group-Project
